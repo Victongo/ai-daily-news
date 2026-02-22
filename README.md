@@ -22,14 +22,6 @@
   <img src="assets/qrcode.png" width="300" alt="智子位公众号二维码" />
 </p>
 
-## ⚡ 技术栈
-
-- Python + AsyncIO 异步管道
-- RSS 抓取 + AI 评分筛选
-- OpenAI API 翻译摘要
-- GitHub Pages + Jekyll (Chirpy 主题) 发布
-- 微信公众号同步推送
-
 ## 📄 License
 
 MIT
